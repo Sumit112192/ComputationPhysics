@@ -1,7 +1,7 @@
 # ComputationPhysics
 
 
-#Integration using the trapezoid method
+# Integration using the trapezoid method
 
 ```python
 import numpy as np
